@@ -14,12 +14,13 @@ Des skills Claude Code pour les participants des formations NextBrik. Un skill e
 | Séance | Document | Contenu |
 |---|---|---|
 | 5 | [`seance-5/appel.md`](seance-5/appel.md) | Transcription d'un appel de vente fictif entre un commercial de Qonto et une boulangerie, pour le jeu de rôle. |
+| 5 | [`seance-5/sources.md`](seance-5/sources.md) | Les pages publiques que lisent l'Avocat (Qonto) et le Veilleur (concurrents) pour vérifier les affirmations de l'appel. |
 
-Pour le récupérer, dites à Claude, dans l'onglet Code :
+Pour les récupérer, dites à Claude, dans l'onglet Code :
 
-> Récupère dans ce projet le fichier seance-5/appel.md du dépôt GitHub fakossa-c/formation-nextbrik.
+> Récupère dans ce projet les fichiers seance-5/appel.md et seance-5/sources.md du dépôt GitHub fakossa-c/formation-nextbrik.
 
-Ou ouvrez le lien ci-dessus et utilisez le bouton de téléchargement de GitHub.
+Ou ouvrez les liens ci-dessus et utilisez le bouton de téléchargement de GitHub.
 
 ## Installer un skill
 
