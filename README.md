@@ -9,6 +9,18 @@ Des skills Claude Code pour les participants des formations NextBrik. Un skill e
 | [`rediger-un-skill`](skills/rediger-un-skill/SKILL.md) | Rédiger un skill (ou un `CLAUDE.md`) que Claude suit de façon prévisible. Traduction française de [`writing-for-agents`](https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents) de Matt Pocock. |
 | [`claude-md`](skills/claude-md/SKILL.md) | Créer, compléter ou nettoyer un `CLAUDE.md`, le fichier d'instructions que Claude relit à chaque session. |
 
+## Documents des séances
+
+| Séance | Document | Contenu |
+|---|---|---|
+| 5 | [`seance-5/appel.md`](seance-5/appel.md) | Transcription d'un appel de vente fictif entre un commercial de Qonto et une boulangerie, pour le jeu de rôle. |
+
+Pour le récupérer, dites à Claude, dans l'onglet Code :
+
+> Récupère dans ce projet le fichier seance-5/appel.md du dépôt GitHub fakossa-c/formation-nextbrik.
+
+Ou ouvrez le lien ci-dessus et utilisez le bouton de téléchargement de GitHub.
+
 ## Installer un skill
 
 ### Choisir la portée : un projet ou partout
