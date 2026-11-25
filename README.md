@@ -24,7 +24,7 @@ npx skills add fakossa-c/formation-nextbrik -g -a claude-code -y
 
 Sans Node.js : téléchargez le dépôt (bouton **Code**, puis **Download ZIP**) et copiez le dossier `skills/rediger-un-skill` dans `~/.claude/skills/` (sous Windows : `C:\Users\<vous>\.claude\skills\`). Redémarrez ensuite Claude Code.
 
-Pour désinstaller : `npx skills remove rediger-un-skill`, ou supprimez le dossier.
+Pour désinstaller : `npx skills remove rediger-un-skill` (ajoutez `-g` s'il a été installé pour tous vos projets), ou supprimez le dossier.
 
 ## Prudence avec les skills trouvés sur le net
 
