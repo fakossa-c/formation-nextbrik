@@ -1,0 +1,3 @@
+interface:
+  display_name: "Rédiger un skill"
+  short_description: "Rédiger les documents que lisent les agents"
