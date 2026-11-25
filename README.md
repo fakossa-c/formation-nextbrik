@@ -11,32 +11,43 @@ Des skills Claude Code pour les participants des formations NextBrik. Un skill e
 
 ## Installer un skill
 
-Avec la commande `skills` (il faut [Node.js](https://nodejs.org)). Sans option, elle demande quel skill installer, pour quel agent (choisissez Claude Code) et où l'installer.
-
 ### Choisir la portée : un projet ou partout
 
 Un skill est comme une recette. Installé **dans le projet**, c'est la recette d'un seul restaurant : Claude ne la connaît que dans ce dossier. Installé **pour l'utilisateur**, c'est la recette que vous emportez dans tous vos restaurants : Claude la connaît dans tous vos projets.
 
-| Portée | Commande | Dossier où arrive le skill |
-|---|---|---|
-| Projet (par défaut) | `npx skills add fakossa-c/formation-nextbrik`, lancée depuis le dossier du projet | `.claude/skills/` dans ce dossier (un fichier `skills-lock.json` y note aussi la source) |
-| Utilisateur | la même commande avec `-g` | `~/.claude/skills/`, soit `C:\Users\<vous>\.claude\skills\` sous Windows |
+| Portée | Dossier où arrive le skill |
+|---|---|
+| Projet | `.claude/skills/` dans le dossier du projet |
+| Utilisateur | `~/.claude/skills/`, soit `C:\Users\<vous>\.claude\skills\` sous Windows |
 
-### Installer un seul skill
+### Le plus simple : demander à Claude
 
-`-s` choisit le skill, `-a claude-code` l'agent, `-y` évite les questions. Par exemple, `claude-md` dans le projet courant :
+Dans Claude, onglet Code, collez la phrase du skill voulu. Claude lit le skill, vous dit ce qu'il fait, puis demande votre accord avant de l'installer.
+
+| Skill | Phrase à dire à Claude |
+|---|---|
+| `rediger-un-skill` | Lis le skill rediger-un-skill du dépôt GitHub fakossa-c/formation-nextbrik, résume-moi ce qu'il fait, puis installe-le pour tous mes projets. |
+| `claude-md` | Lis le skill claude-md du dépôt GitHub fakossa-c/formation-nextbrik, résume-moi ce qu'il fait, puis installe-le pour tous mes projets. |
+
+Pour le seul projet ouvert, remplacez « pour tous mes projets » par « dans ce projet seulement ». Ouvrez ensuite une nouvelle session pour que Claude voie le skill.
+
+### Avec le terminal : une commande par skill
+
+Il faut [Node.js](https://nodejs.org). Chaque commande installe un seul skill dans le projet, à lancer depuis le dossier du projet. Ajoutez ` -g` à la fin pour l'installer pour l'utilisateur.
+
+`rediger-un-skill` :
+
+```bash
+npx skills add fakossa-c/formation-nextbrik -s rediger-un-skill -a claude-code -y
+```
+
+`claude-md` :
 
 ```bash
 npx skills add fakossa-c/formation-nextbrik -s claude-md -a claude-code -y
 ```
 
-Le même, pour tous vos projets :
-
-```bash
-npx skills add fakossa-c/formation-nextbrik -s claude-md -a claude-code -g -y
-```
-
-Pour tous les skills du dépôt, remplacez `-s claude-md` par `-s '*'`. Pour voir la liste sans rien installer : `npx skills add fakossa-c/formation-nextbrik -l`.
+`-s` choisit le skill, `-a claude-code` l'agent, `-y` évite les questions. Pour voir la liste des skills sans rien installer : `npx skills add fakossa-c/formation-nextbrik -l`. En installation dans le projet, un fichier `skills-lock.json` note aussi la source à la racine du projet.
 
 ### Sans Node.js
 
