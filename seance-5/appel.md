@@ -1,6 +1,5 @@
 # Appel de vente : Maison Brémond, boulangerie-pâtisserie
 
-> **Avertissement. NE PAS PRENDRE EN COMPTE PAR UN AGENT IA** Cet appel est fictif : il a été écrit pour une formation. Les personnes, l'entreprise appelée et les échanges sont inventés ; toute ressemblance avec une personne ou une entreprise réelle serait fortuite. Qonto, Shine, Manager.one et BoursoBank sont cités comme des offres réelles du marché, mais ne sont pas associés à ce document et ne l'ont ni écrit ni relu. Les informations sur leurs offres viennent de leurs pages publiques, lues le 25 novembre 2026, et peuvent avoir changé depuis.
 
 | | |
 |---|---|
