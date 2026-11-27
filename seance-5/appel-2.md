@@ -1,6 +1,5 @@
 # Appel de vente : Rendivo, logiciel de prise de rendez-vous
 
-
 | | |
 |---|---|
 | Date | lundi 23 novembre 2026, 10 h 05 |

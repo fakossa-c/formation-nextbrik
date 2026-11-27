@@ -1,6 +1,5 @@
 # Appel de vente : Maison Brémond, boulangerie-pâtisserie
 
-
 | | |
 |---|---|
 | Date | jeudi 19 novembre 2026, 14 h 10 |
