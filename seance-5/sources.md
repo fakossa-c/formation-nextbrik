@@ -1,47 +1,45 @@
-# Sources à lire pendant la séance
+# Sources
 
-Adresses de pages publiques, lues le 25 novembre 2026. Les offres changent : ce que vous lisez le jour de la séance fait foi. Chaque source porte un code (A1, S2...) pour la retrouver dans vos échanges.
+Adresses de pages publiques, lues le 25 novembre 2026. Les offres changent : ce que vous lisez le jour de la séance fait foi. Chaque source porte un code (Q1, S2...) pour la retrouver dans vos échanges.
 
-## Pour l'Avocat : Qonto, l'entreprise dont vous jouez les commerciaux
+## Qonto
 
-| Code | Page | Où y trouver les preuves |
+| Code | Page | Contenu |
 |---|---|---|
-| A1 | https://qonto.com/fr/pricing | Tarifs : prix des forfaits, ce que chacun inclut, frais à l'unité. La page est longue : les forfaits pour les équipes (Essential, Business, Enterprise) sont dans la seconde moitié. Si l'outil de lecture ne les montre pas, demandez-lui précisément cette section. |
-| A2 | https://www.moneyvox.fr/banque/actualites/111284/banque-pro-qonto-obtient-agrement-etablissement-de-credit-et-annonce-de-nouveaux-services | Article de presse sur l'agrément bancaire annoncé le 17 novembre 2026 : ce qui change, et le statut d'avant. |
-| A3 | https://thepaypers.com/digital-identity-security-online-fraud/qonto-to-improve-its-aml-measures-in-its-italian-branch--1269403 | Article de juillet 2024 (en anglais) sur la mesure de la Banque d'Italie contre la filiale italienne de Qonto : date, ce qui était interdit, ce qui restait possible pour les clients existants. La fin de la mesure (mars 2026) se trouve dans la presse : mots-clés « Qonto Italia riapertura nuovi conti 2026 ». |
+| Q1 | https://qonto.com/fr/pricing | Page des tarifs. Elle est longue : les forfaits pour les équipes (Essential, Business, Enterprise) sont dans la seconde moitié. Si l'outil de lecture ne les montre pas, demandez-lui précisément cette section. |
+| Q2 | https://www.moneyvox.fr/banque/actualites/111284/banque-pro-qonto-obtient-agrement-etablissement-de-credit-et-annonce-de-nouveaux-services | Article de presse (MoneyVox, novembre 2026) sur l'agrément bancaire de Qonto. |
+| Q3 | https://thepaypers.com/digital-identity-security-online-fraud/qonto-to-improve-its-aml-measures-in-its-italian-branch--1269403 | Article de presse (The Paypers, juillet 2024, en anglais) sur la filiale italienne de Qonto. |
 
-## Pour le Veilleur : les concurrents cités
+## Shine
 
-### Shine
-
-| Code | Page | Où y trouver les preuves |
+| Code | Page | Contenu |
 |---|---|---|
-| S1 | https://www.shine.fr/tarifs/ | Les quatre offres (Free, Start, Plus, Business), leurs prix et le nombre de virements et prélèvements inclus. |
-| S2 | https://help.shine.fr/fr/articles/10490776-nos-offres-evoluent-quels-sont-les-changements-prevus | Ce qui a changé le 5 octobre 2026, offre par offre : à lire pour dater une affirmation sur Shine. |
-| S3 | https://fr.trustpilot.com/review/shine.fr | Note et avis publics. |
+| S1 | https://www.shine.fr/tarifs/ | Page des tarifs. |
+| S2 | https://help.shine.fr/fr/articles/10490776-nos-offres-evoluent-quels-sont-les-changements-prevus | Article du centre d'aide sur l'évolution des offres. |
+| S3 | https://fr.trustpilot.com/review/shine.fr | Avis publics. |
 
-### Manager.one
+## Manager.one
 
-| Code | Page | Où y trouver les preuves |
+| Code | Page | Contenu |
 |---|---|---|
-| M1 | https://www.manager.one/fr/comparatifs | Le forfait unique et son prix (la page tarifs, elle, n'affiche pas le prix dans son texte). |
-| M2 | https://support.manager.one/portal/fr/kb/articles/deposer-des-especes-sur-un-compte-manager-one | Réponse officielle sur le dépôt d'espèces. |
-| M3 | https://fr.trustpilot.com/review/manager.one | Note et avis publics. |
+| M1 | https://www.manager.one/fr/comparatifs | Page de comparatifs (la page tarifs n'affiche pas le prix dans son texte). |
+| M2 | https://support.manager.one/portal/fr/kb/articles/deposer-des-especes-sur-un-compte-manager-one | Article du centre d'aide sur les espèces. |
+| M3 | https://fr.trustpilot.com/review/manager.one | Avis publics. |
 
-### BoursoBank (offre Bourso Business)
+## BoursoBank (offre Bourso Business)
 
-| Code | Page | Où y trouver les preuves |
+| Code | Page | Contenu |
 |---|---|---|
-| B1 | https://www.boursobank.com/professionnels/compte-professionnel | La gratuité annoncée et ses notes de bas de page : qui peut ouvrir ce compte. |
-| B2 | https://www.boursobank.com/professionnels/carte-bancaire-professionnelle | La carte et ses conditions, les plafonds. |
-| B3 | https://fr.trustpilot.com/review/boursobank.com | Note et avis publics (ils concernent toute la banque, pas seulement l'offre pro). |
+| B1 | https://www.boursobank.com/professionnels/compte-professionnel | Page du compte professionnel, notes de bas de page comprises. |
+| B2 | https://www.boursobank.com/professionnels/carte-bancaire-professionnelle | Page de la carte professionnelle. |
+| B3 | https://fr.trustpilot.com/review/boursobank.com | Avis publics (toute la banque, pas seulement l'offre pro). |
 
-### Comparatif écrit par Qonto (à lire avec recul)
+## Comparatif
 
-| Code | Page | Où y trouver les preuves |
+| Code | Page | Contenu |
 |---|---|---|
-| C1 | https://qonto.com/fr/comparators/online-banks | Tableau Qonto, Revolut, Shine (sous le nom Ageras), BoursoBank, Crédit Agricole, N26 : dépôt d'espèces, chèques, formes juridiques admises. Rédigé par Qonto : à recouper avec les pages des concurrents. Dans la lecture, les lignes de données de la colonne Shine portent l'étiquette « Ageras » : ne pas en tirer de chiffre sur Shine sans le recouper avec S1. |
+| C1 | https://qonto.com/fr/comparators/online-banks | Comparatif de banques en ligne, rédigé par Qonto. |
 
-## Si une recherche est nécessaire
+## Si une information manque
 
-Mots-clés utiles : « Shine compte pro tarifs », « Manager.one dépôt d'espèces », « Bourso Business formes juridiques éligibles », « Qonto agrément bancaire FGDR ».
+Une recherche sur le web est permise. Notez l'adresse de la page lue et sa date.
