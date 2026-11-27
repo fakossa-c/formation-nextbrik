@@ -15,6 +15,7 @@ Des skills Claude Code pour les participants des formations NextBrik. Un skill e
 |---|---|---|
 | 5 | [`seance-5/appel.md`](seance-5/appel.md) | Transcription d'un appel de vente fictif entre un commercial de Qonto et une boulangerie, pour le jeu de rôle. |
 | 5 | [`seance-5/sources.md`](seance-5/sources.md) | Les pages publiques que lisent l'Avocat (Qonto) et le Veilleur (concurrents) pour vérifier les affirmations de l'appel. |
+| 5 | [`seance-5/appel-2.md`](seance-5/appel-2.md) | Un second appel fictif, avec une entreprise de logiciel, pour tester votre skill sur un cas neuf. |
 
 Pour les récupérer, dites à Claude, dans l'onglet Code :
 
